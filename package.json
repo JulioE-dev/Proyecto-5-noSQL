@@ -7,7 +7,7 @@
     "dev": "node --watch index.js"
   },
   "keywords": [],
-  "author": "Julio E,
+  "author": "Julio E",
   "license": "ISC",
   "description": "",
   "dependencies": {
